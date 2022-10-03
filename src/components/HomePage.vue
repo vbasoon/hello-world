@@ -1,5 +1,5 @@
 <template>
-    <div class="wripper">Home</div>
+    <div class="font-extrabold text-3xl mt-6">Home</div>
 </template>
 
 <script>
